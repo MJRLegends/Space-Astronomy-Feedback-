@@ -1,7 +1,7 @@
 # Space-Astronomy-Feedback-
 Issues and suggestions for the Space Astronomy Mod Pack
 
-Please you the issues tab on the right hand side to report Issues and make suggestions.
+Please use the issues tab on the right hand side to report issues and make suggestions.
 
 Change Log - http://pastebin.com/Zmx3n72i
 
