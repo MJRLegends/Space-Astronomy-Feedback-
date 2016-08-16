@@ -1,7 +1,7 @@
 ### ---Issue Report---
 **Have you checked the Known Issues page:** [Yes/No]
 
-**Have you checked closed issues:** [Yes/No]
+**Have you checked Closed Issues:** [Yes/No]
 ### Description of Issue
 [Description of the issue]
 
