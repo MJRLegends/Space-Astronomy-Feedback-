@@ -3,7 +3,7 @@ Issues and suggestions for the Space Astronomy Mod Pack
 
 Please use the issues tab on the right hand side to report issues and make suggestions.
 
-Issue Tracker - http://pastebin.com/R73aBeqA
+Known Issues - http://pastebin.com/R73aBeqA
 
 Change Log - http://pastebin.com/Zmx3n72i
 
