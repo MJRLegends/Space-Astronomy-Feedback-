@@ -11,7 +11,11 @@
 
 **Crash log/Log (if applicable):** [PASTEBIN. Do NOT copy and paste the log into the issue post itself.]
 
+**ScreenShots (if applicable):** 
+
 **Version of Mod Pack using:** [VERSION]
+
+**Where did this bug happen:** [Single Player or Server]
 
 ### Additional Information
 [Any other information that may be able to help me with the problem]
