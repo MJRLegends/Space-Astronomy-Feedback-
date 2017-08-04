@@ -9,7 +9,9 @@
 1. [First step]
 2. [Second step]
 
-**Crash log/Log (if applicable):** [PASTEBIN. Do NOT copy and paste the log into the issue post itself.]
+**Crash log/Log (if applicable):** [PASTEBIN. Do NOT copy and paste the log into the issue post itself. See below on how to get them]
+*How do i locate a crash log on Minecraft on Curse/Twitch? see* https://gyazo.com/3c616a7dfcbe69033ea210805b093f82
+*How do i locate a crash log on Minecraft on FTB? see* http://imgur.com/a/IbWNC
 
 **Screenshots (if applicable):** 
 
