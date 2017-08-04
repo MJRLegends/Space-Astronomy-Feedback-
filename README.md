@@ -3,7 +3,6 @@ Issues and suggestions for the Space Astronomy Mod Pack
 
 Please use the issues tab to report issues and make suggestions.
 
-#### How do i change my RAM Assignment/Usage for Minecraft on Curse/Twitch? http://imgur.com/a/s6OXF
 #### How do i locate a crash log on Minecraft on Curse/Twitch? https://gyazo.com/3c616a7dfcbe69033ea210805b093f82
 #### How do i locate a crash log on Minecraft on FTB? http://imgur.com/a/IbWNC
 
