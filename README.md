@@ -1,4 +1,4 @@
-[![](http://cf.way2muchnoise.eu/full_space-astronomy_downloads.svg)](https://minecraft.curseforge.com/projects/space-astronomy) [![](http://cf.way2muchnoise.eu/versions/Minecraft_space-astronomy_all.svg)](https://minecraft.curseforge.com/projects/space-astronomy)
+[![](http://cf.way2muchnoise.eu/full_space-astronomy_downloads.svg)](https://minecraft.curseforge.com/projects/space-astronomy)
 
 # Space-Astronomy-Feedback-
 Issues and suggestions for the Space Astronomy Mod Pack
